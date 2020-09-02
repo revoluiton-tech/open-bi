@@ -1,1 +1,1 @@
-# open-bi
+# open-BI
